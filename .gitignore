@@ -37,6 +37,9 @@
 .envrc
 .rbenv-vars
 
+#Ignore ssh key
+sshkey
+sshkey.pub
 # Ignore the files and folders generated through Webpack
 /public/decidim-packs
 /public/packs-test
